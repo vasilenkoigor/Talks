@@ -3,7 +3,9 @@ A repo with the talks I've given at conferences, etc
 
 ## [Mobius 2016](http://2016.mobiusconf.com/en/): Прикладной ReactiveCocoa
 Многопоточность и асинхронность с ReactiveCocoa
+
 ReactiveCocoa 2.5 vs. ReactiveCocoa 4. Основные различия между версиями.
+
 ReactiveCocoa vs. RxSwift. За и против.
 
  - [Video](https://www.youtube.com/watch?v=mbTcxPRh9kU&index=20&list=PLb1A91j1236pH1yoUvq5YDZUWAJz1T4DF)
