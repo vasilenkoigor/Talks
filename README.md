@@ -16,3 +16,9 @@ Most applications spend a lot of time waiting for events and processing them: Ap
 
 - [Video](https://youtu.be/DYoQtHSuU_U?list=PLpVeA1tdgfCBk4PdFVkf6fOStX40Rk0Y5)
 - [Slides](https://speakerdeck.com/spbvasilenko/lets-be-functional-reactive-in-cocoa-world)
+
+## [CocoaHeads Ru](http://cocoaheads.ru/): TDD Patterns and Why We Should Know About Them
+Many developers use TDD and do not even think that they often violate many TDD patterns or do not even know about them.
+With my presentation, I want to help developers use TDD in their projects even more efficiently, more efficiently, more productively and without a headache. Such patterns as Isolated Test, Test List, Test First, Assert First, Test Data, Evident Data were considered.
+
+- [Video](https://www.youtube.com/watch?v=ZyTJn2ne4Gg&t=)
